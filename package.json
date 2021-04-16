@@ -1,0 +1,14 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "javascript katas",
+  "main": "index.js",
+  "author": "Florin Gologan",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
